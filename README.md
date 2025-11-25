@@ -96,7 +96,7 @@ Step14. click on debug and simulate using simulation as shown below
   
 
 ## STM 32 CUBE PROGRAM :
-
+```
 /* USER CODE BEGIN Header */
  /**
  ***************************************************************************
@@ -121,8 +121,7 @@ LICENSE file
  /* Includes ------------------------------------------------------------------*/
  #include "main.h"
  
-24/11/2025, 11:37
- EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/README.md at main · 24900659/…
+
  /* Private includes ----------------------------------------------------------*/
  /* USER CODE BEGIN Includes */
  /* USER CODE END Includes */
@@ -327,7 +326,7 @@ line) */
   /* USER CODE END 6 */
  }
  #endif /* USE_FULL_ASSERT */
-
+```
 
 ## Output screen shots of proteus  :
  <img width="792" height="568" alt="image" src="https://github.com/user-attachments/assets/5784e154-efbb-48c7-8cdd-103743949c8e" />
