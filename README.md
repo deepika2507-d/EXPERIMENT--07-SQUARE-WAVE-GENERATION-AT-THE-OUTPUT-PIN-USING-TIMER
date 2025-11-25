@@ -339,7 +339,7 @@ line) */
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
 <img width="783" height="385" alt="image" src="https://github.com/user-attachments/assets/ad7c0fb2-33f6-4366-97c4-2d41d90d8f95" />
-
+```
 TON =  3 x 10 x 10^-6
     = 0.00003
 TOFF=0.00003
@@ -347,11 +347,11 @@ TOTAL TIME = TON + TOFF
            = 0.00003+0.00003 
            = 0.00006
 FREQUENCY = 1/(TOTAL TIME)
-
+```
 FOR PULSE AT 700
 
 <img width="791" height="385" alt="image" src="https://github.com/user-attachments/assets/c12d5913-81d2-40f7-bf0f-91326584eb0d" />
-
+```
  
  TON = 4 x 10 x 10^-6
     = 0.00004
@@ -367,11 +367,12 @@ FOR PULSE AT 700
            = 0.7
       IN % =0.7*100 
            = 70 %
-
+```
 
 FOR PULSE AT 900
 <img width="787" height="384" alt="image" src="https://github.com/user-attachments/assets/ccf8e452-04cb-43a0-8c2e-7bb36dc3c3de" />
-``` TON = 1 x 50 x 10^-6 = 0.00005 TOFF= 0.1 x 50 x 10^-6 = 0.000005 TOTAL TIME =
+```
+TON = 1 x 50 x 10^-6 = 0.00005 TOFF= 0.1 x 50 x 10^-6 = 0.000005 TOTAL TIME =
 
  TON = 4 x 10 x 10^-6
     = 0.00004
